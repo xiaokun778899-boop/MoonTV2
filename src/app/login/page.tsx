@@ -120,7 +120,7 @@ function LoginPageClient() {
                 type='text'
                 autoComplete='username'
                 className='block w-full rounded-xl border-0 py-3 px-4 text-gray-900 dark:text-gray-100 shadow-sm ring-1 ring-inset ring-gray-300 dark:ring-zinc-700 placeholder:text-gray-500 focus:ring-2 focus:ring-green-500 bg-white/50 dark:bg-zinc-800/50'
-                placeholder='用户名'
+                placeholder='用户名注册或登陆'
                 value={username}
                 onChange={(e) => setUsername(e.target.value)}
               />
