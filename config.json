@@ -84,6 +84,42 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "snzy": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
+    },
+    "hnzy": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
+    },
+    "kkzy": {
+      "api": "https://kuaikanzy.com/api.php/provide/vod",
+      "name": "快看资源"
+    },
+    "ukzy": {
+      "api": "https://api.uukzy.com/api.php/provide/vod",
+      "name": "U酷资源"
+    },
+    "lzzy": {
+      "api": "https://api.lz-caiji.com/api.php/provide/vod",
+      "name": "粒子资源"
+    },
+    "hczy": {
+      "api": "https://cj.hczypy.com/api.php/provide/vod",
+      "name": "豪华资源"
+    },
+    "xlzy": {
+      "api": "https://xlzyapi.com/api.php/provide/vod",
+      "name": "新浪资源"
+    },
+    "lyzy": {
+      "api": "https://www.leyuzy.com/api.php/provide/vod",
+      "name": "乐鱼资源"
+    },
+    "jyz": {
+      "api": "https://api.jinyunapi.com/api.php/provide/vod",
+      "name": "金云资源"
     }
   }
 }
